@@ -13,7 +13,7 @@
 }
 .highway{
   height:200px;
-  width: 500%;
+  width: 1000%;
   background-image: url(road.jpg);
   display: block;
   position: absolute;
