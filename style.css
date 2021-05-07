@@ -69,9 +69,11 @@
 @keyframes car{
     100%{
         transform: translateY(-1px);
+        filter: hue-rotate(0deg);  
     }
     50%{
         transform: translateY(1px);
+        filter: hue-rotate(360deg);  
     }
     0%{
         transform: translateY(-1px);
